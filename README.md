@@ -8,7 +8,7 @@ This project streams and parses PumpFun transactions on the Solana blockchain. B
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shyft-to/solana-defi.git
+   git clone https://github.com/moriDev316/stream-pump-fun-transactions-and-detect-buy-sell-events.git
    cd PumpFun/Typescript/stream-pump-fun-transactions-and-detect-buy-sell-events
    ```
 
@@ -27,7 +27,3 @@ This project streams and parses PumpFun transactions on the Solana blockchain. B
     ```
 
 *Note: Please rename the `.env.sample` file to `.env` and input your env details before running the script.*
-
-## Related Links
-
-Shyft gRPC Docs: [https://docs.shyft.to/solana-fast-grpc/grpc-docs]
